@@ -1,0 +1,32 @@
+[
+	{
+		"language": "TH",
+		"label": [
+			{"name": "caption", "value": "ข้อมูลข้อความ"},
+			{"name": "msgcodes_label", "value": "รหัสข้อความ"},
+			{"name": "langcodes_label", "value": "ภาษา"},
+			{"name": "msgtexts_label", "value": "ข้อความ"},
+			{"name": "msgcode_headerlabel", "value": "รหัสข้อความ"},
+			{"name": "langcode_headerlabel", "value": "ภาษา"},
+			{"name": "msgtext_headerlabel", "value": "ข้อความ"},
+			{"name": "msgcode_label", "value": "รหัสข้อความ"},
+			{"name": "langcode_label", "value": "ภาษา"},
+			{"name": "msgtext_label", "value": "ข้อความ"}
+		]
+	},
+	{
+		"language": "EN",
+		"label": [
+			{"name": "caption", "value": "Message Code"},
+			{"name": "msgcodes_label", "value": "Message Code"},
+			{"name": "langcodes_label", "value": "Language"},
+			{"name": "msgtexts_label", "value": "Message Text"},
+			{"name": "msgcode_headerlabel", "value": "Message Code"},
+			{"name": "langcode_headerlabel", "value": "Language"},
+			{"name": "msgtext_headerlabel", "value": "Message Text"},
+			{"name": "msgcode_label", "value": "Message Code"},
+			{"name": "langcode_label", "value": "Language"},
+			{"name": "msgtext_label", "value": "Message Text"}
+		]
+	}
+]
